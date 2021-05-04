@@ -229,7 +229,7 @@
 <distributionManagement>
     <snapshotRepository>
       <id>maven-snapshots</id>
-      <url>http://54.234.149.175:8081/repository/test2/</url>
+      <url>http://54.234.149.175:8081/repository/service_one/</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
